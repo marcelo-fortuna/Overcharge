@@ -1,2 +1,2 @@
 # Overcharge
-Studying the concept of Overchage of methods.
+Studying the concept of Overcharging methods.
